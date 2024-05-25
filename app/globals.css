@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;  /* Default weight: Regular */
+  }
+  
+  .medium {
+    font-weight: 500;  /* Medium weight */
+  }
+  
+  .bold {
+    font-weight: 700;  /* Bold weight */
+  }
