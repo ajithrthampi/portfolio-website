@@ -10,7 +10,7 @@ const Hero = () => {
     <div id="home"  className="  h-screen flex justify-center items-center flex-col  ">
       <div className='flex justify-center items-center flex-col gap-3'>
         <img className='w-32 h-32 rounded-full object-cover' src="https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
-        <p className='text-white text-sm'>Hi i am Ajith</p>
+        <p className='text-white text-sm'>Hi i&apos;am Ajith</p>
       </div>
 
       <TextGenerateEffect

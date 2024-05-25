@@ -40,10 +40,10 @@ const About = () => {
                         <div className='flex justify-start w-full md:pb-7'>
                             <img className='md:w-28 w-20 md:h-28 h-20 rounded-full object-cover' src="https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                         </div>
-                        <p>Hey, I'm Ajith,</p>
+                        <p>Hey, I&apos;m Ajith,</p>
                         <p>I create premium websites for ambitious, design-driven people.</p>
                         <p>Wielding world-class programmes and robust, elegant code, I captivate audiences with stories, illustrations, mockups & animations.</p>
-                        <p>I agonise over the details so that you don't have to, offering consulting services during the design phase and beyond. In short, I am a multidisciplinary front-end developer—doing his best to craft websites that are beautiful, compelling and performant.</p>
+                        <p>I agonise over the details so that you don&apos;t have to, offering consulting services during the design phase and beyond. In short, I am a multidisciplinary front-end developer—doing his best to craft websites that are beautiful, compelling and performant.</p>
                         <p>Thank you for taking the time to explore my little corner of the internet.</p>
                         <div className='absolute right-0 bottom-0 transform rotate-90'>
                             <img className='md:w-full sm:w-20 w-16'

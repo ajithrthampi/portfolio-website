@@ -75,7 +75,7 @@ const Contact = () => {
                 <div className='slg:w-[40%]'>
                     <p className='fontManrope-medium md:text-3xl text-lg'>SEND ME A MESSAGE</p>
                     <p className=' pt-5 bg-clip-text bg-gradient-to-br from-white via-[#dddbe0] to-[#bbb8c0] text-transparent fontManrope-regular leading-[29px] tracking-wide md:text-base text-sm'>
-                        Have a specific inquiry or message for us? Please use the contact form below, and we'll get back to you promptly.
+                        Have a specific inquiry or message for us? Please use the contact form below, and we&apos;ll get back to you promptly.
                     </p>
                 </div>
 
@@ -145,9 +145,9 @@ const Contact = () => {
         <div className='md:pb-32 pb-10 xl:px-[150px] md:px-[40px]  sm:px-[30px] vsm:px-[12px] px-[7px]'>
             <hr className="h-[1.5px] bg-gray-900 bg-gradient-to-r from-[#0b011d] via-[#372c4b] to-[#0b011d]  border-0 " />
             <div className='flex sm:flex-row flex-col justify-between items-center pt-5'>
-                <p className='text-[#AFB0B6] fontManrope-thin text-sm  tracking-wide leading-6 pt-5'>
+                {/* <p className='text-[#AFB0B6] fontManrope-thin text-sm  tracking-wide leading-6 pt-5'>
                     © 2023 {name}. All rights reserved.
-                </p>
+                </p> */}
                 <div className='flex text-2xl gap-2 sm:pt-0 pt-5'>
                     <button className='w-8 h-8 rounded-full hover:scale-105 border border-[#302D38] flex justify-center items-center bg-[#1a0f2e]'>
                         <a href="https://www.instagram.com/ajith_rth/">
