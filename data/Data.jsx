@@ -17,6 +17,7 @@ export const projectsData = [
         techStack: ["React.Js", "Tailwind CSS","Framer Motion", "Redux ToolKit","NodeJs, MongoDB",],
         title:"Social Media Web App"
     },
+
      {
         description: " This web application has been developed by using React S and firebase. Users can register and login to the website and search other users to start a live conversation.",
         githuburl: "https://github.com/ajithrthampi/vite-chat",
@@ -59,7 +60,7 @@ export const projectsData = [
         title:"Website for disabled individuals"
     },
     {
-        description: "Introducing my Nike-inspired clone website: a sleek, user-friendly platform offering premium athletic wear and footwear. Seamlessly blending style and functionality, it mirrors Nike's ethos while showcasing my development skills. ",
+        description: "Introducing my Nike-inspired clone website: A sleek, user-friendly platform offering premium athletic wear and footwear. Seamlessly blending style and functionality, it mirrors Nike's ethos while showcasing my development skills. ",
         githuburl: "",
         image: {url: project7,},
         liveurl: "https://phenomenal-semifreddo-e5c052.netlify.app",
