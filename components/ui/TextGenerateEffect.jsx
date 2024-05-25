@@ -30,11 +30,11 @@ export const TextGenerateEffect = ({
           return (
             <React.Fragment key={word + idx}>
               <motion.span
-                className={`${idx > 4 ? 'bg-clip-text bg-gradient-to-br from-white via-[#bebebe] to-[#929292] text-transparent ': idx > 2 ? 'bg-clip-text bg-gradient-to-br from-white via-[#bebebe] to-[#929292] text-transparent ':  "text-white"} opacity-0`}
+                className={`${idx > 5 ? 'bg-clip-text bg-gradient-to-br from-white via-[#bebebe] to-[#929292] text-transparent ': "text-white"} opacity-0`}
               >
                 {word}{" "}
               </motion.span>
-              {(word === "digital" || word === "and") && <br />}
+              {(word === "builds" || word === "and ") && <br />}
             </React.Fragment>
           );
         })}

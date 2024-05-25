@@ -24,7 +24,7 @@ const Downbar = () => {
 
 
     return (
-        <div className={`${show ? "     transition-all duration-1000 ease-in-out block" : "hidden  "} `}>
+        <div className={`${show ? "transition-all duration-1000 ease-in-out block" : "hidden  "} `}>
             <div className='hidden slg:block fontManrope-regular'>
                 <div className=' flex  justify-center items-center text-white w-screen '>
                     <ul className='glass-effect-button flex gap- justify-between font-light  text-base text-[#a4a0aa] ' >

@@ -125,7 +125,7 @@ const Projects = () => {
     <div>
       <div className=' h-full pb-10' id="projects">
         <hr className="h-px  grbg-ay-900 bg-gradient-to-r from-[#0b011d]  via-[#3e2f5b] to-[#0b011d]  border-0 " />
-        <div className='xl:px-[210px]  md:px-[140px]  sm:px-[100px] vsm:px-[12px] px-[7px]'>
+        <div className='xl:px-[210px]  md:px-[140px]  sm:px-[100px] px-3'>
           <div className='relative top-28  left-0 right-0 bottom-0 w-[100%] h-auto  xl:max-w-[1128px] lg:max-w-[1000px] md:max-w-  mr-auto ml-auto  '>
 
             <div className='absolute xl:left-32 left-0  bg-red500  '>
